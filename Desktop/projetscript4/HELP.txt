@@ -1,0 +1,9 @@
+-h    : Afficher le help
+-v    : Afficher le nom des auteurs et version du code
+-t    : Afficher le type de l’utilisateurs
+-m    : Afficher un menu textuel
+-g    : Afficher un menu textuel et gérer les fonctionnalité de façon graphique
+-v    : Afficher le nom des auteurs et version du code
+-n    : Afficher le nombre d’utilisateurs
+-p    : Afficher les répertoires personnels des utilisateurs
+-G    : Afficher les Utilisateurs appartenant au même groupe donné
